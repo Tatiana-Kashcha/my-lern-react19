@@ -1,8 +1,8 @@
 {
-  "name": "my-app-vite",
+  "name": "my-lern-react19",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://tatiana-kashcha.github.io/my-app-vite/",
+  "homepage": "https://tatiana-kashcha.github.io/my-lern-react19/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
