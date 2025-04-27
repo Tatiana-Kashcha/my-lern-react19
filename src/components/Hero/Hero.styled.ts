@@ -16,7 +16,7 @@ export const Thumb = styled.div`
 
 export const StyledLink = styled(NavLink)`
   text-decoration: none;
-  padding: 10px 0;
+  padding: 10px;
   font-size: 18px;
   color: rgb(126 79 15);
   font-weight: bold;

@@ -3,6 +3,7 @@ import * as s from "./Hero.styled";
 const links = [
   { href: "/", label: "Home" },
   { href: "/bootstrap", label: "Bootstrap" },
+  { href: "/recipes", label: "useTransition" },
 ];
 
 export const Hero = () => {
