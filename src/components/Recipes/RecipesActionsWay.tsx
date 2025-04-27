@@ -35,6 +35,7 @@ const RecipesActionsWay = () => {
         marginRight: "auto",
         paddingLeft: "40px",
         paddingRight: "40px",
+        width: "1380px",
       }}
     >
       <NavLink to="/">{"<<"} Home</NavLink>
