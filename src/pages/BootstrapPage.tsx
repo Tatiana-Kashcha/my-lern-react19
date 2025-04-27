@@ -1,12 +1,19 @@
+import { NavLink } from "react-router-dom";
+
 const BootstrapPage = () => {
   return (
     <>
       {/* Навігація */}
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container">
+          <NavLink className="navbar-brand" to="/">
+            {"<<"} Home
+          </NavLink>
+
           <a className="navbar-brand" href="#">
             MyBootstrap
           </a>
+
           <button
             className="navbar-toggler"
             type="button"
@@ -18,7 +25,7 @@ const BootstrapPage = () => {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav ms-auto">
               <li className="nav-item">
-                <a className="nav-link active" href="/">
+                <a className="nav-link active" href="#">
                   Головна
                 </a>
               </li>
