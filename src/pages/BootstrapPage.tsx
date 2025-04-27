@@ -1,6 +1,4 @@
-import "./App.css";
-
-function App() {
+const BootstrapPage = () => {
   return (
     <>
       {/* Навігація */}
@@ -20,7 +18,7 @@ function App() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav ms-auto">
               <li className="nav-item">
-                <a className="nav-link active" href="#">
+                <a className="nav-link active" href="/">
                   Головна
                 </a>
               </li>
@@ -109,6 +107,5 @@ function App() {
       </div>
     </>
   );
-}
-
-export default App;
+};
+export default BootstrapPage;
