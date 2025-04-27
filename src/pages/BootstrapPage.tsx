@@ -11,7 +11,7 @@ const BootstrapPage = () => {
           </NavLink>
 
           <a className="navbar-brand" href="#">
-            MyBootstrap
+            MyBootstrap example
           </a>
 
           <button
