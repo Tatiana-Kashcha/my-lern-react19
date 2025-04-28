@@ -3,7 +3,11 @@ import RecipesActionsWay from "../components/Recipes/RecipesActionsWay";
 
 const Recipes = () => {
   return (
-    <section>
+    <section
+      style={{
+        padding: "40px 0",
+      }}
+    >
       {/* <RecipesOldWay /> */}
       <RecipesActionsWay />
     </section>
