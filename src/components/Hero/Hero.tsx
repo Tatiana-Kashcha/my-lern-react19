@@ -5,6 +5,7 @@ const links = [
   { href: "/bootstrap", label: "Bootstrap" },
   { href: "/recipes", label: "useTransition" },
   { href: "/login-form", label: "useActionState" },
+  { href: "/flow", label: "testFlow" },
 ];
 
 export const Hero = () => {
