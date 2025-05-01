@@ -1,0 +1,1 @@
+import{j as e}from"./index-Dy3mELYK.js";const s=()=>e.jsxs("section",{style:{display:"flex",justifyContent:"center",flexDirection:"column",alignItems:"center",height:"100vh"},children:[e.jsx("h1",{children:"Hello, I am Git flow!"}),e.jsxs("p",{children:["I am here ","))"]})]});export{s as default};
