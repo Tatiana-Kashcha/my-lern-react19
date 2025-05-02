@@ -1,1 +1,0 @@
-import{j as e,N as s}from"./index-St3Jz9n5.js";const i=()=>e.jsxs("section",{style:{display:"flex",justifyContent:"center",flexDirection:"column",alignItems:"center",height:"100vh"},children:[e.jsxs(s,{to:"/",className:"mb-12",children:["<<"," Home"]}),e.jsx("h1",{children:"Hello, I am Git flow!"}),e.jsxs("p",{children:["I am here ","))"]})]});export{i as default};
