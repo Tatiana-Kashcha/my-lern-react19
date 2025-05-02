@@ -17,6 +17,7 @@ const GitFlow = () => {
 
       <h1>Hello, I am Git flow!</h1>
       <p>I am here {"))"}</p>
+      <p>I am test3 {"бе-бе-бе"}</p>
     </section>
   );
 };
